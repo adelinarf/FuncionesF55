@@ -39,3 +39,25 @@ Además para ser una recursión, la recursión de cola optimizada es capaz de ma
 <img src="iterativaNumeros.png" alt="resultado"/>
 
 Aunque la función iterativa mostró un límite para números a partir de 400.000, es posible aumentar el heap space en Kotlin y lograr hacer cálculos con números mayores, por lo que esta es la función más eficiente de todas las programadas para el cálculo de F 5,5.
+
+## ¿Cómo correr el archivo?
+Si se utilizan los sitios web https://onecompiler.com/kotlin/3y9hrsbsf o https://www.jdoodle.com/compile-kotlin-online/ se deben introducir las entradas por consola antes de correr el programa o dará error.
+Las entradas en consola deben ser:
+
+    RECURSIVO numero
+    COLA numero
+    ITERATIVO numero
+ 
+ En donde numero debe ser reemplazado por un número, por ejemplo:
+ 
+    RECURSIVO 20
+    
+ Esta llamada calculará la función F55 recursiva para el número 20. Además se incluyeron las pruebas realizadas en el código y pueden repetirse al introducir:
+ 
+    PRUEBAS
+    
+ Para salir del programa se introduce la palabra SALIR
+ 
+    SALIR
+    
+ También se puede correr el código de Kotlin en un repositorio en REPLIT, pero esto requiere registro de usuario.
