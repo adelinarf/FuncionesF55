@@ -1,5 +1,6 @@
 # Funciones F55
 ### Pregunta 4
+##### El archivo familiaDeFunciones.kt puede correrse en el sitio web: https://onecompiler.com/kotlin/3y9hrsbsf o https://www.jdoodle.com/compile-kotlin-online/. Se deben incluir las entradas por consola antes de la corrida o utilizar un repositorio en REPLIT.
 Dada la familia de funciones:
 
 <img src="funciones.jpg" alt="fun"/>
